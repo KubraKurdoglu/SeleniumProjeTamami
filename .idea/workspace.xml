@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NZEwxZGs2E6CiZRqh4r3mJNkyE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.C02_DropDown.printAll">
+    <configuration name="C01_Assertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day08" />
+      <option name="MAIN_CLASS_NAME" value="day08.C01_Assertion" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_Assertion.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day08" />
+      <option name="MAIN_CLASS_NAME" value="day08.C01_Assertion" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_Assertion.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day08" />
+      <option name="MAIN_CLASS_NAME" value="day08.C01_Assertion" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_DropDown.printAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day08" />
+      <option name="MAIN_CLASS_NAME" value="day08.C02_DropDown" />
+      <option name="METHOD_NAME" value="printAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_DropDown.selectByIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day08" />
+      <option name="MAIN_CLASS_NAME" value="day08.C02_DropDown" />
+      <option name="METHOD_NAME" value="selectByIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.C02_DropDown.printAll" />
+        <item itemvalue="JUnit.C02_DropDown.selectByIndex" />
+        <item itemvalue="JUnit.C01_Assertion" />
+        <item itemvalue="JUnit.C01_Assertion.test04" />
+        <item itemvalue="JUnit.C01_Assertion.test03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="" />
+      <created>1679863447866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679863447866</updated>
+    </task>
+    <servers />
+  </component>
+</project>
