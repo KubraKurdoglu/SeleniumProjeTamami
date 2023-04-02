@@ -2,6 +2,7 @@ package day08;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -41,7 +42,7 @@ public class C02_DropDown {
 
         //Select objesini kullanarak 3 farklı şekilde seçim yapabiliriz:
         Thread.sleep(3000);
-        yearDropDown.selectByIndex(22);//Seçenek 0'dan başlar. 2001 yılı 22. sırada
+        yearDropDown.selectByIndex(22);//Seçenek 0'dan başlar. DropDown menude 23. yu alir 2001 yılı 22. sırada
 
         //Ay şeçimi:
         Thread.sleep(3000);
@@ -54,6 +55,7 @@ public class C02_DropDown {
         WebElement day = driver.findElement(By.xpath("//select[@id='day']"));
         Select dayDropDown = new Select(day);
         dayDropDown.selectByValue("28");
+
     }
 
     @Test//Tüm eyalet isimlerini yazdıralım
@@ -62,10 +64,31 @@ public class C02_DropDown {
         Select stateDropDown = new Select(state);
         List<WebElement> stateList = stateDropDown.getOptions();
 
-//        for(WebElement w : stateList){
-//            System.out.println(w.getText());
-//        }
+        //        for(WebElement w : stateList){
+        //            System.out.println(w.getText());
+        //        }
         //Tavsiye edilen
+        //stateList.forEach(t -> System.out.println(t.getText()));==> bunu Stream ile de kullanbilirsin.
+        // kullanmazsan da calisir. stream'dan sonra direk foreach geldigi icin boyle yapilabiliyor
+
         stateList.forEach(t -> System.out.println(t.getText()));
+
     }
-}
+        @Test
+        public void test03() {
+        WebElement tumEyaletler = driver.findElement(By.cssSelector("select[id='state'"));
+        Select select = new Select(tumEyaletler);
+        String sonSecilenText = select.getFirstSelectedOption().getText();
+
+        //getFirstSelectedOption()==> son secilen option'u verir. en son sectigimiz en basa geldigi icin
+
+            System.out.println(sonSecilenText);
+            Assert.assertEquals("select a state", sonSecilenText);//burda ilk kisimda yorum yazdi
+
+
+        }
+
+
+
+    }
+

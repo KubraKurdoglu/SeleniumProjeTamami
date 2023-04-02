@@ -43,6 +43,7 @@ public class C01_Assertion {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
         driver.get("https://amazon.com");
 
+
     }
 
     @After
@@ -89,6 +90,16 @@ public class C01_Assertion {
         String expectedTitle = "amazon";//buraya dogru basligi yazsaydin "assertion error" verecekti
 
         assertFalse(actuelTitle.equals(expectedTitle));
+
+        //yukardaki konu bu sekilde de cozulebilir
+
+        /*
+        String gercekBaslik = driver.getTitle();
+        String beklenenBaslik = "amazon";
+        Assert.assertFalse("Gercek Baslik Amazon",gercekBaslik.contains(beklenenBaslik));
+
+         */
+
 
     }
 }

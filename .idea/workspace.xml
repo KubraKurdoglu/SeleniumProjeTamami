@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="" />
+    <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_DropDown_Alerts/C01_DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_DropDown_Alerts/C02_TestBaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day09_DropDown_Alerts/C03_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_Alert_Iframe/C01_AlertMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day10_Alert_Iframe/C02_Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/odevler/Task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/odevler/Task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/odevler/Task03Cevap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/odevler/Task04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/odevler/Task05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day08/C01_Assertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day08/C01_Assertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day08/C02_DropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day08/C02_DropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Assertionlar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/odevler/Assertionlar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/odevler/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day08/C01_Assertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day08/C01_Assertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day08/C02_DropDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day08/C02_DropDown.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +32,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,81 +61,86 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C02_DropDown.printAll">
-    <configuration name="C01_Assertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="odevler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.C02_Iframe">
+    <configuration name="C01_AlertMethods.acceptAlerts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day08.*" />
+          <option name="PATTERN" value="day10_Alert_Iframe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day08" />
-      <option name="MAIN_CLASS_NAME" value="day08.C01_Assertion" />
+      <option name="PACKAGE_NAME" value="day10_Alert_Iframe" />
+      <option name="MAIN_CLASS_NAME" value="day10_Alert_Iframe.C01_AlertMethods" />
+      <option name="METHOD_NAME" value="acceptAlerts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_Iframe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10_Alert_Iframe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day10_Alert_Iframe" />
+      <option name="MAIN_CLASS_NAME" value="day10_Alert_Iframe.C02_Iframe" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Assertion.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_Iframe.iframe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day08.*" />
+          <option name="PATTERN" value="day10_Alert_Iframe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day08" />
-      <option name="MAIN_CLASS_NAME" value="day08.C01_Assertion" />
-      <option name="METHOD_NAME" value="test03" />
+      <option name="PACKAGE_NAME" value="day10_Alert_Iframe" />
+      <option name="MAIN_CLASS_NAME" value="day10_Alert_Iframe.C02_Iframe" />
+      <option name="METHOD_NAME" value="iframe" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Assertion.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_Alerts.dismissAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day08.*" />
+          <option name="PATTERN" value="day09_DropDown_Alerts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day08" />
-      <option name="MAIN_CLASS_NAME" value="day08.C01_Assertion" />
-      <option name="METHOD_NAME" value="test04" />
+      <option name="PACKAGE_NAME" value="day09_DropDown_Alerts" />
+      <option name="MAIN_CLASS_NAME" value="day09_DropDown_Alerts.C03_Alerts" />
+      <option name="METHOD_NAME" value="dismissAlert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_DropDown.printAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_Alerts.sendKeysAlert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day08.*" />
+          <option name="PATTERN" value="day09_DropDown_Alerts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day08" />
-      <option name="MAIN_CLASS_NAME" value="day08.C02_DropDown" />
-      <option name="METHOD_NAME" value="printAll" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_DropDown.selectByIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day08" />
-      <option name="MAIN_CLASS_NAME" value="day08.C02_DropDown" />
-      <option name="METHOD_NAME" value="selectByIndex" />
+      <option name="PACKAGE_NAME" value="day09_DropDown_Alerts" />
+      <option name="MAIN_CLASS_NAME" value="day09_DropDown_Alerts.C03_Alerts" />
+      <option name="METHOD_NAME" value="sendKeysAlert" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C02_DropDown.printAll" />
-        <item itemvalue="JUnit.C02_DropDown.selectByIndex" />
-        <item itemvalue="JUnit.C01_Assertion" />
-        <item itemvalue="JUnit.C01_Assertion.test04" />
-        <item itemvalue="JUnit.C01_Assertion.test03" />
+        <item itemvalue="JUnit.C02_Iframe" />
+        <item itemvalue="JUnit.C02_Iframe.iframe" />
+        <item itemvalue="JUnit.C01_AlertMethods.acceptAlerts" />
+        <item itemvalue="JUnit.C03_Alerts.sendKeysAlert" />
+        <item itemvalue="JUnit.C03_Alerts.dismissAlert" />
       </list>
     </recent_temporary>
   </component>
