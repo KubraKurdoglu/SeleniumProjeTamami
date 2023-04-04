@@ -10,6 +10,8 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.Select;
 
 import java.time.Duration;
+import java.util.ArrayList;
+import java.util.List;
 
 public abstract class TestBase {//abstract yapmasakta olurmus, obje olusturulmasin diye yaptik dedi hoca
         //TestBase class'indan obje olusturmanin onune gecilmesi icin abstract yapilabilir
@@ -87,6 +89,15 @@ public abstract class TestBase {//abstract yapmasakta olurmus, obje olusturulmas
         select.selectByValue(secenek);
     }
 
+    //SwitchTo : sayfalar arasi gecis methodu
+    //herhangi bir return olmayacak o nedenle void
+    //driver'in bulundugu yerde, tum driver'larin handlel'lerini aliyor
+    //bu sayede istedigimiz yerden aliyoruz
+    //Index sifirdan baslar, girilen index'teki windowhandle degerini alarak o sayfaya gecis yapar
+
+    public static void switchToWindow(int sayfaIndeksi){
+        List<String> windowHandleList = new ArrayList<>(driver.getWindowHandles());
+    }
 
 
 }

@@ -1,17 +1,12 @@
-package odevler;
+package erolHoca_odevler;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.*;
-import org.junit.experimental.theories.Theories;
 import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.edge.EdgeDriver;
-import org.openqa.selenium.remote.RemoteWebElement;
 
-import java.security.Key;
 import java.time.Duration;
 import java.util.List;
 

@@ -5,12 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_Alert_Iframe_WindowHandle/C01_IFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11_Alert_Iframe_WindowHandle/C02_WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day11_Alert_Iframe_WindowHandle/C03_WindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day12_WindowHandle_BasicAuth/C01_WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day12_WindowHandle_BasicAuth/C02_BasicAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day12_WindowHandle_BasicAuth/C03Tekrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day12_WindowHandle_BasicAuth/C03_Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Assertionlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C01_DriverGetMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C02_NavigationMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C03_NavigationsMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C04_NavigationsMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C05_Nav.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Cookies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/odevler/Task05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/odevler/Task05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/odevler/Task05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day11_Alert_Iframe_WindowHandle/C01_IFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_Alert_Iframe_WindowHandle/C01_IFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day11_Alert_Iframe_WindowHandle/C02_WindowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day11_Alert_Iframe_WindowHandle/C02_WindowHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Assertionlar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Assertionlar02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Assertionlar02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Task03Cevap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task03Cevap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Task05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/odevler/Xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Xpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day11_Alert_Iframe_WindowHandle/C01_IFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day11_Alert_Iframe_WindowHandle/C01_IFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day11_Alert_Iframe_WindowHandle/C02_WindowHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day11_Alert_Iframe_WindowHandle/C02_WindowHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/odevler/Assertionlar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/odevler/Assertionlar02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/odevler/Task01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/odevler/Task02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/odevler/Task03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/odevler/Task03Cevap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/odevler/Task04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/odevler/Task05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/odevler/Xpath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,80 +86,79 @@
       <recent name="odevler" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Task05.test02">
-    <configuration name="C01_IFrame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Cookies.test01">
+    <configuration name="C02_NavigationMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11_Alert_Iframe_WindowHandle.*" />
+          <option name="PATTERN" value="slayttakiOdevler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day11_Alert_Iframe_WindowHandle" />
-      <option name="MAIN_CLASS_NAME" value="day11_Alert_Iframe_WindowHandle.C01_IFrame" />
+      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C02_NavigationMethods" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_IFrame.iFrame01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_Cookies.cookiesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day11_Alert_Iframe_WindowHandle.*" />
+          <option name="PATTERN" value="day12_WindowHandle_BasicAuth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day11_Alert_Iframe_WindowHandle" />
-      <option name="MAIN_CLASS_NAME" value="day11_Alert_Iframe_WindowHandle.C01_IFrame" />
-      <option name="METHOD_NAME" value="iFrame01" />
+      <option name="PACKAGE_NAME" value="day12_WindowHandle_BasicAuth" />
+      <option name="MAIN_CLASS_NAME" value="day12_WindowHandle_BasicAuth.C03_Cookies" />
+      <option name="METHOD_NAME" value="cookiesTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_NavigationsMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="odevler.*" />
+          <option name="PATTERN" value="slayttakiOdevler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="odevler" />
-      <option name="MAIN_CLASS_NAME" value="odevler.Task05" />
+      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C03_NavigationsMethods" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task05.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_NavigationsMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="odevler.*" />
+          <option name="PATTERN" value="slayttakiOdevler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="odevler" />
-      <option name="MAIN_CLASS_NAME" value="odevler.Task05" />
+      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C04_NavigationsMethods" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cookies.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.Cookies" />
       <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task05.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="odevler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="odevler" />
-      <option name="MAIN_CLASS_NAME" value="odevler.Task05" />
-      <option name="METHOD_NAME" value="test02" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Task05.test02" />
-        <item itemvalue="JUnit.C01_IFrame" />
-        <item itemvalue="JUnit.C01_IFrame.iFrame01" />
-        <item itemvalue="JUnit.Task05" />
-        <item itemvalue="JUnit.Task05.test01" />
+        <item itemvalue="JUnit.Cookies.test01" />
+        <item itemvalue="JUnit.C03_Cookies.cookiesTest" />
+        <item itemvalue="JUnit.C04_NavigationsMethods" />
+        <item itemvalue="JUnit.C03_NavigationsMethods" />
+        <item itemvalue="JUnit.C02_NavigationMethods" />
       </list>
     </recent_temporary>
   </component>

@@ -61,6 +61,10 @@ public class C01_IFrame extends TestBase {
         //WebElement defaultpage(varsayilan pencere) icinde oldugu icin once driver'i iFrame disina
         //yani sayfamiza almaliyiz
         driver.switchTo().parentFrame();
+        //driver.switchTo().defaultContent();==>ile de yapabilirsin
+        //driver.navigate().refresh();==>bu methodla sayfayi yeniledigimiz icin ilk bolume tekrar gecmis oluruz
+        bekle(2000);
+
 
         WebElement elementalSelenium = driver.findElement(By.linkText("Elemental Selenium"));
         assertTrue(elementalSelenium.isDisplayed());

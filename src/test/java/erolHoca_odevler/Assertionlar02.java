@@ -1,4 +1,4 @@
-package odevler;
+package erolHoca_odevler;
 
 public class Assertionlar02 {
     /*
