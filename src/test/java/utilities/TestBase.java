@@ -32,8 +32,8 @@ public abstract class TestBase {//abstract yapmasakta olurmus, obje olusturulmas
 
     @After
     public void tearDown() throws InterruptedException {
-        Thread.sleep(3000);
-        driver.quit();
+        //Thread.sleep(3000);
+        //driver.quit();
     }
 
     public static void bekle(int saniye) {

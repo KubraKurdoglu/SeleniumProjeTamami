@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_practice/C01_DropDownMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_practice/C02_DropDownOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_practice/C03_CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_practice/C04_RadioButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_03_practice/C05_Alert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day13_ActionsClass/C01_Actions01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day13_ActionsClass/C02_Actions02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day13_ActionsClass/C03_Actions03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day13_ActionsClass/C04_Actions04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,78 +59,81 @@
       <recent name="odevler" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C05_Alert.test01">
-    <configuration name="C01_DropDownMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Task06.test01">
+    <configuration name="C01_Actions01.actionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_03_practice.*" />
+          <option name="PATTERN" value="day13_ActionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day_03_practice" />
-      <option name="MAIN_CLASS_NAME" value="day_03_practice.C01_DropDownMenu" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C01_DropDownMenu.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_03_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day_03_practice" />
-      <option name="MAIN_CLASS_NAME" value="day_03_practice.C01_DropDownMenu" />
-      <option name="METHOD_NAME" value="name" />
+      <option name="PACKAGE_NAME" value="day13_ActionsClass" />
+      <option name="MAIN_CLASS_NAME" value="day13_ActionsClass.C01_Actions01" />
+      <option name="METHOD_NAME" value="actionsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_DropDownOptions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_Actions02.actionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_03_practice.*" />
+          <option name="PATTERN" value="day13_ActionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day_03_practice" />
-      <option name="MAIN_CLASS_NAME" value="day_03_practice.C02_DropDownOptions" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day13_ActionsClass" />
+      <option name="MAIN_CLASS_NAME" value="day13_ActionsClass.C02_Actions02" />
+      <option name="METHOD_NAME" value="actionTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_CheckBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_Actions03.actionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_03_practice.*" />
+          <option name="PATTERN" value="day13_ActionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day_03_practice" />
-      <option name="MAIN_CLASS_NAME" value="day_03_practice.C03_CheckBox" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day13_ActionsClass" />
+      <option name="MAIN_CLASS_NAME" value="day13_ActionsClass.C03_Actions03" />
+      <option name="METHOD_NAME" value="actionsTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_Alert.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_Actions04.actionsTest03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_03_practice.*" />
+          <option name="PATTERN" value="day13_ActionsClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day_03_practice" />
-      <option name="MAIN_CLASS_NAME" value="day_03_practice.C05_Alert" />
+      <option name="PACKAGE_NAME" value="day13_ActionsClass" />
+      <option name="MAIN_CLASS_NAME" value="day13_ActionsClass.C04_Actions04" />
+      <option name="METHOD_NAME" value="actionsTest03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task06.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="erolHoca_odevler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="erolHoca_odevler" />
+      <option name="MAIN_CLASS_NAME" value="erolHoca_odevler.Task06" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -138,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C05_Alert.test01" />
-        <item itemvalue="JUnit.C03_CheckBox" />
-        <item itemvalue="JUnit.C02_DropDownOptions" />
-        <item itemvalue="JUnit.C01_DropDownMenu.name" />
-        <item itemvalue="JUnit.C01_DropDownMenu" />
+        <item itemvalue="JUnit.Task06.test01" />
+        <item itemvalue="JUnit.C04_Actions04.actionsTest03" />
+        <item itemvalue="JUnit.C03_Actions03.actionsTest" />
+        <item itemvalue="JUnit.C02_Actions02.actionTest" />
+        <item itemvalue="JUnit.C01_Actions01.actionsTest" />
       </list>
     </recent_temporary>
   </component>
