@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day13_ActionsClass/C04_AyniDersErolHocaIle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C06_TekrarTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C07_LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C08_TekrarTesti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day13_ActionsClass/C03_Actions03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day13_ActionsClass/C03_Actions03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C05_Nav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C05_NavigationsMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/erolHoca_odevler/Task06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/erolHoca_odevler/Task06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C05_Nav.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C06_TekrarTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C06_TekrarTesti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day13_ActionsClass/C03_Actions03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day13_ActionsClass/C03_Actions03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C06_TekrarTesti.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C06_TekrarTesti.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,56 +58,8 @@
       <recent name="odevler" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C06_TekrarTesti">
-    <configuration name="C03_Actions03.actionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day13_ActionsClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day13_ActionsClass" />
-      <option name="MAIN_CLASS_NAME" value="day13_ActionsClass.C03_Actions03" />
-      <option name="METHOD_NAME" value="actionsTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_Actions04.actionsTest03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day13_ActionsClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day13_ActionsClass" />
-      <option name="MAIN_CLASS_NAME" value="day13_ActionsClass.C04_Actions04" />
-      <option name="METHOD_NAME" value="actionsTest03" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C05_NavigationsMethods.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C05_NavigationsMethods" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C06_TekrarTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C08_TekrarTesti">
+    <configuration name="C06_TekrarTesti.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
@@ -118,21 +69,68 @@
       </extension>
       <option name="PACKAGE_NAME" value="slayttakiOdevler" />
       <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C06_TekrarTesti" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C07_LoginTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task06.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C07_LoginTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="erolHoca_odevler.*" />
+          <option name="PATTERN" value="slayttakiOdevler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="erolHoca_odevler" />
-      <option name="MAIN_CLASS_NAME" value="erolHoca_odevler.Task06" />
+      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C07_LoginTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_TekrarTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C08_TekrarTesti" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_TekrarTesti.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C08_TekrarTesti" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -141,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C06_TekrarTesti" />
-        <item itemvalue="JUnit.C05_NavigationsMethods.test01" />
-        <item itemvalue="JUnit.Task06.test01" />
-        <item itemvalue="JUnit.C04_Actions04.actionsTest03" />
-        <item itemvalue="JUnit.C03_Actions03.actionsTest" />
+        <item itemvalue="JUnit.C08_TekrarTesti" />
+        <item itemvalue="JUnit.C08_TekrarTesti.test01" />
+        <item itemvalue="JUnit.C07_LoginTest.test01" />
+        <item itemvalue="JUnit.C07_LoginTest" />
+        <item itemvalue="JUnit.C06_TekrarTesti.test01" />
       </list>
     </recent_temporary>
   </component>

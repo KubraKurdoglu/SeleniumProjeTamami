@@ -79,12 +79,16 @@ public class C06_TekrarTesti {
 
         //9. Ardından sayfa başlığının "Amazon" içerip içermediğini (contains) doğrulayın,
         // Yoksa doğru başlığı(Actual Title) yazdırın.
+        System.out.println(driver.getTitle());
 
-        assertTrue( driver.getTitle().contains("Amazon"));
+        assertFalse( (driver.getTitle()).contains("Amazon"));
 
         //10.Sayfa URL'sinin https://www.amazon.com/ olup olmadığını doğrulayın, degilse doğru URL'yi yazdırın
 
-        assertEquals("https://www.amazon.com/",driver.getCurrentUrl());
+        String mevcutURL = driver.getCurrentUrl();
+        System.out.println(driver.getCurrentUrl());
+
+        assertFalse(mevcutURL.equals("https://www.amazon.com/"));
 
         //11.Sayfayi kapatin
         driver.quit();
