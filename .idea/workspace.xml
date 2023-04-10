@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C09_LocatorsXPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C10_AddRemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_JavaFaker_FileExist/C01_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_JavaFaker_FileExist/C02_JavaFaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_JavaFaker_FileExist/C03_FileExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day14_JavaFaker_FileExist/C04_FileDownloadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C11_LocatorsXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C12_RelativeLocator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C08_TekrarTesti.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C08_TekrarTesti.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C09_LocatorsXPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C09_LocatorsXPath.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,70 +61,71 @@
       <recent name="odevler" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C09_LocatorsXPath.test01">
-    <configuration name="C07_LoginTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C11_LocatorsXpath.test01">
+    <configuration name="C02_JavaFaker.javaFakerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="PATTERN" value="day14_JavaFaker_FileExist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C07_LoginTest" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day14_JavaFaker_FileExist" />
+      <option name="MAIN_CLASS_NAME" value="day14_JavaFaker_FileExist.C02_JavaFaker" />
+      <option name="METHOD_NAME" value="javaFakerTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_TekrarTesti" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_FileExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="PATTERN" value="day14_JavaFaker_FileExist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C08_TekrarTesti" />
+      <option name="PACKAGE_NAME" value="day14_JavaFaker_FileExist" />
+      <option name="MAIN_CLASS_NAME" value="day14_JavaFaker_FileExist.C03_FileExist" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_TekrarTesti.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_FileExist.fileExistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="PATTERN" value="day14_JavaFaker_FileExist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C08_TekrarTesti" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day14_JavaFaker_FileExist" />
+      <option name="MAIN_CLASS_NAME" value="day14_JavaFaker_FileExist.C03_FileExist" />
+      <option name="METHOD_NAME" value="fileExistTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_LocatorsXPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_FileDownloadTest.fileDowloadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="PATTERN" value="day14_JavaFaker_FileExist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C09_LocatorsXPath" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day14_JavaFaker_FileExist" />
+      <option name="MAIN_CLASS_NAME" value="day14_JavaFaker_FileExist.C04_FileDownloadTest" />
+      <option name="METHOD_NAME" value="fileDowloadTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_LocatorsXPath.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C11_LocatorsXpath.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
@@ -128,7 +134,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C09_LocatorsXPath" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C11_LocatorsXpath" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -137,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C09_LocatorsXPath.test01" />
-        <item itemvalue="JUnit.C09_LocatorsXPath" />
-        <item itemvalue="JUnit.C08_TekrarTesti" />
-        <item itemvalue="JUnit.C08_TekrarTesti.test01" />
-        <item itemvalue="JUnit.C07_LoginTest.test01" />
+        <item itemvalue="JUnit.C11_LocatorsXpath.test01" />
+        <item itemvalue="JUnit.C04_FileDownloadTest.fileDowloadTest" />
+        <item itemvalue="JUnit.C03_FileExist.fileExistTest" />
+        <item itemvalue="JUnit.C03_FileExist" />
+        <item itemvalue="JUnit.C02_JavaFaker.javaFakerTest" />
       </list>
     </recent_temporary>
   </component>
