@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day14_JavaFaker_FileExist/C01_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day14_JavaFaker_FileExist/C02_JavaFaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day14_JavaFaker_FileExist/C03_FileExist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day14_JavaFaker_FileExist/C04_FileDownloadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C11_LocatorsXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C12_RelativeLocator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day15_FileUpload_Waits/C01_FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day15_FileUpload_Waits/C02_ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day15_FileUpload_Waits/C03_FluentWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day15_FileUpload_Waits/C04_ExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C09_LocatorsXPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C09_LocatorsXPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C12_RelativeLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C12_RelativeLocator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,81 +59,81 @@
       <recent name="odevler" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C11_LocatorsXpath.test01">
-    <configuration name="C02_JavaFaker.javaFakerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C04_ExplicitWait.explicitWait">
+    <configuration name="C01_FileUpload.fileUploadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_JavaFaker_FileExist.*" />
+          <option name="PATTERN" value="day15_FileUpload_Waits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day14_JavaFaker_FileExist" />
-      <option name="MAIN_CLASS_NAME" value="day14_JavaFaker_FileExist.C02_JavaFaker" />
-      <option name="METHOD_NAME" value="javaFakerTest" />
+      <option name="PACKAGE_NAME" value="day15_FileUpload_Waits" />
+      <option name="MAIN_CLASS_NAME" value="day15_FileUpload_Waits.C01_FileUpload" />
+      <option name="METHOD_NAME" value="fileUploadTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_FileExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_ExplicitWait.emplicitlyWait" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_JavaFaker_FileExist.*" />
+          <option name="PATTERN" value="day15_FileUpload_Waits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day14_JavaFaker_FileExist" />
-      <option name="MAIN_CLASS_NAME" value="day14_JavaFaker_FileExist.C03_FileExist" />
+      <option name="PACKAGE_NAME" value="day15_FileUpload_Waits" />
+      <option name="MAIN_CLASS_NAME" value="day15_FileUpload_Waits.C02_ExplicitWait" />
+      <option name="METHOD_NAME" value="emplicitlyWait" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_FluentWait" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day15_FileUpload_Waits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day15_FileUpload_Waits" />
+      <option name="MAIN_CLASS_NAME" value="day15_FileUpload_Waits.C03_FluentWait" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_FileExist.fileExistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_FluentWait.fluentWaitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_JavaFaker_FileExist.*" />
+          <option name="PATTERN" value="day15_FileUpload_Waits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day14_JavaFaker_FileExist" />
-      <option name="MAIN_CLASS_NAME" value="day14_JavaFaker_FileExist.C03_FileExist" />
-      <option name="METHOD_NAME" value="fileExistTest" />
+      <option name="PACKAGE_NAME" value="day15_FileUpload_Waits" />
+      <option name="MAIN_CLASS_NAME" value="day15_FileUpload_Waits.C03_FluentWait" />
+      <option name="METHOD_NAME" value="fluentWaitTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_FileDownloadTest.fileDowloadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_ExplicitWait.explicitWait" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day14_JavaFaker_FileExist.*" />
+          <option name="PATTERN" value="day15_FileUpload_Waits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day14_JavaFaker_FileExist" />
-      <option name="MAIN_CLASS_NAME" value="day14_JavaFaker_FileExist.C04_FileDownloadTest" />
-      <option name="METHOD_NAME" value="fileDowloadTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C11_LocatorsXpath.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C11_LocatorsXpath" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day15_FileUpload_Waits" />
+      <option name="MAIN_CLASS_NAME" value="day15_FileUpload_Waits.C04_ExplicitWait" />
+      <option name="METHOD_NAME" value="explicitWait" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C11_LocatorsXpath.test01" />
-        <item itemvalue="JUnit.C04_FileDownloadTest.fileDowloadTest" />
-        <item itemvalue="JUnit.C03_FileExist.fileExistTest" />
-        <item itemvalue="JUnit.C03_FileExist" />
-        <item itemvalue="JUnit.C02_JavaFaker.javaFakerTest" />
+        <item itemvalue="JUnit.C04_ExplicitWait.explicitWait" />
+        <item itemvalue="JUnit.C03_FluentWait.fluentWaitTest" />
+        <item itemvalue="JUnit.C03_FluentWait" />
+        <item itemvalue="JUnit.C02_ExplicitWait.emplicitlyWait" />
+        <item itemvalue="JUnit.C01_FileUpload.fileUploadTest" />
       </list>
     </recent_temporary>
   </component>
