@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day15_FileUpload_Waits/C01_FileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day15_FileUpload_Waits/C02_ExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day15_FileUpload_Waits/C03_FluentWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day15_FileUpload_Waits/C04_ExplicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_practice/C01_Iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_practice/C02_WindowHandle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C12_RelativeLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C12_RelativeLocator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day15_FileUpload_Waits/C04_ExplicitWait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day15_FileUpload_Waits/C04_ExplicitWait.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,34 +56,34 @@
       <recent name="odevler" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C04_ExplicitWait.explicitWait">
-    <configuration name="C01_FileUpload.fileUploadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C02_WindowHandle.test01">
+    <configuration name="C01_Iframe.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15_FileUpload_Waits.*" />
+          <option name="PATTERN" value="day_04_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day15_FileUpload_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day15_FileUpload_Waits.C01_FileUpload" />
-      <option name="METHOD_NAME" value="fileUploadTest" />
+      <option name="PACKAGE_NAME" value="day_04_practice" />
+      <option name="MAIN_CLASS_NAME" value="day_04_practice.C01_Iframe" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_ExplicitWait.emplicitlyWait" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_WindowHandle.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15_FileUpload_Waits.*" />
+          <option name="PATTERN" value="day_04_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day15_FileUpload_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day15_FileUpload_Waits.C02_ExplicitWait" />
-      <option name="METHOD_NAME" value="emplicitlyWait" />
+      <option name="PACKAGE_NAME" value="day_04_practice" />
+      <option name="MAIN_CLASS_NAME" value="day_04_practice.C02_WindowHandle" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C02_WindowHandle.test01" />
+        <item itemvalue="JUnit.C01_Iframe.test01" />
         <item itemvalue="JUnit.C04_ExplicitWait.explicitWait" />
         <item itemvalue="JUnit.C03_FluentWait.fluentWaitTest" />
         <item itemvalue="JUnit.C03_FluentWait" />
-        <item itemvalue="JUnit.C02_ExplicitWait.emplicitlyWait" />
-        <item itemvalue="JUnit.C01_FileUpload.fileUploadTest" />
       </list>
     </recent_temporary>
   </component>
