@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_practice/C01_Iframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_04_practice/C02_WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C13_SearchTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day15_FileUpload_Waits/C04_ExplicitWait.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day15_FileUpload_Waits/C04_ExplicitWait.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day13_ActionsClass/C04_Actions04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day13_ActionsClass/C04_Actions04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day_04_practice/C02_WindowHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day_04_practice/C02_WindowHandle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <recent name="odevler" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C02_WindowHandle.test01">
+  <component name="RunManager" selected="JUnit.Task08">
     <configuration name="C01_Iframe.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
@@ -89,48 +90,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_FluentWait" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C13_SearchTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15_FileUpload_Waits.*" />
+          <option name="PATTERN" value="slayttakiOdevler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day15_FileUpload_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day15_FileUpload_Waits.C03_FluentWait" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C03_FluentWait.fluentWaitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day15_FileUpload_Waits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day15_FileUpload_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day15_FileUpload_Waits.C03_FluentWait" />
-      <option name="METHOD_NAME" value="fluentWaitTest" />
+      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C13_SearchTest" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_ExplicitWait.explicitWait" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Task08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day15_FileUpload_Waits.*" />
+          <option name="PATTERN" value="erolHoca_odevler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day15_FileUpload_Waits" />
-      <option name="MAIN_CLASS_NAME" value="day15_FileUpload_Waits.C04_ExplicitWait" />
-      <option name="METHOD_NAME" value="explicitWait" />
+      <option name="PACKAGE_NAME" value="erolHoca_odevler" />
+      <option name="MAIN_CLASS_NAME" value="erolHoca_odevler.Task08" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task08.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="erolHoca_odevler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="erolHoca_odevler" />
+      <option name="MAIN_CLASS_NAME" value="erolHoca_odevler.Task08" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Task08" />
+        <item itemvalue="JUnit.Task08.test01" />
+        <item itemvalue="JUnit.C13_SearchTest.test01" />
         <item itemvalue="JUnit.C02_WindowHandle.test01" />
         <item itemvalue="JUnit.C01_Iframe.test01" />
-        <item itemvalue="JUnit.C04_ExplicitWait.explicitWait" />
-        <item itemvalue="JUnit.C03_FluentWait.fluentWaitTest" />
-        <item itemvalue="JUnit.C03_FluentWait" />
       </list>
     </recent_temporary>
   </component>

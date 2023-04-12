@@ -73,7 +73,8 @@ public class C04_Actions04 extends TestBase {
         //tikla, tut, su koordinata gelince birak
         // bu islemleri yapacagiz
 
-        actions.clickAndHold(source).moveByOffset(388,34).release().build().perform();
+        actions.clickAndHold(source).
+                moveByOffset(388,34).release().build().perform();
         //moveByOffset()==> bu method ile istedigimiz yere tasiyabiliyourz
 
 
