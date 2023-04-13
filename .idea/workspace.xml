@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C13_SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day16_Exceptions/C01_NoSuchElementException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day16_Exceptions/C02_TimeOutException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day16_Exceptions/C03_NullPointerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day16_Exceptions/C04_StaleElementException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day13_ActionsClass/C04_Actions04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day13_ActionsClass/C04_Actions04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day_04_practice/C02_WindowHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day_04_practice/C02_WindowHandle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,81 +57,82 @@
       <recent name="odevler" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Task08">
-    <configuration name="C01_Iframe.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C03_NullPointerException.nullPointerExceptionTest4">
+    <configuration name="C02_TimeOutException.timeOutExeptionTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_04_practice.*" />
+          <option name="PATTERN" value="day16_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day_04_practice" />
-      <option name="MAIN_CLASS_NAME" value="day_04_practice.C01_Iframe" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day16_Exceptions" />
+      <option name="MAIN_CLASS_NAME" value="day16_Exceptions.C02_TimeOutException" />
+      <option name="METHOD_NAME" value="timeOutExeptionTest2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_WindowHandle.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_NullPointerException.nullPointerExceptionTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_04_practice.*" />
+          <option name="PATTERN" value="day16_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day_04_practice" />
-      <option name="MAIN_CLASS_NAME" value="day_04_practice.C02_WindowHandle" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day16_Exceptions" />
+      <option name="MAIN_CLASS_NAME" value="day16_Exceptions.C03_NullPointerException" />
+      <option name="METHOD_NAME" value="nullPointerExceptionTest3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C13_SearchTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_NullPointerException.nullPointerExceptionTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="PATTERN" value="day16_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C13_SearchTest" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day16_Exceptions" />
+      <option name="MAIN_CLASS_NAME" value="day16_Exceptions.C03_NullPointerException" />
+      <option name="METHOD_NAME" value="nullPointerExceptionTest4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task08" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_StaleElementException.staleElementExceptionTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="erolHoca_odevler.*" />
+          <option name="PATTERN" value="day16_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="erolHoca_odevler" />
-      <option name="MAIN_CLASS_NAME" value="erolHoca_odevler.Task08" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day16_Exceptions" />
+      <option name="MAIN_CLASS_NAME" value="day16_Exceptions.C04_StaleElementException" />
+      <option name="METHOD_NAME" value="staleElementExceptionTest4" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task08.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_StaleElementException.staleElementExceptionTest5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="erolHoca_odevler.*" />
+          <option name="PATTERN" value="day16_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="erolHoca_odevler" />
-      <option name="MAIN_CLASS_NAME" value="erolHoca_odevler.Task08" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day16_Exceptions" />
+      <option name="MAIN_CLASS_NAME" value="day16_Exceptions.C04_StaleElementException" />
+      <option name="METHOD_NAME" value="staleElementExceptionTest5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Task08" />
-        <item itemvalue="JUnit.Task08.test01" />
-        <item itemvalue="JUnit.C13_SearchTest.test01" />
-        <item itemvalue="JUnit.C02_WindowHandle.test01" />
-        <item itemvalue="JUnit.C01_Iframe.test01" />
+        <item itemvalue="JUnit.C03_NullPointerException.nullPointerExceptionTest4" />
+        <item itemvalue="JUnit.C03_NullPointerException.nullPointerExceptionTest3" />
+        <item itemvalue="JUnit.C02_TimeOutException.timeOutExeptionTest2" />
+        <item itemvalue="JUnit.C04_StaleElementException.staleElementExceptionTest5" />
+        <item itemvalue="JUnit.C04_StaleElementException.staleElementExceptionTest4" />
       </list>
     </recent_temporary>
   </component>
