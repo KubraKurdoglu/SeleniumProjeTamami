@@ -1,16 +1,23 @@
 package utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.apache.commons.io.FileUtils;
 import org.junit.After;
 import org.junit.Before;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.Select;
 
+import java.io.File;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 public abstract class TestBase {//abstract yapmasakta olurmus, obje olusturulmasin diye yaptik dedi hoca
@@ -97,6 +104,37 @@ public abstract class TestBase {//abstract yapmasakta olurmus, obje olusturulmas
 
     public static void switchToWindow(int sayfaIndeksi){
         List<String> windowHandleList = new ArrayList<>(driver.getWindowHandles());
+
+    }
+
+
+    //bir pencereden digerine gecmek icin kullaniyoruz bu methodu
+    public static void window(int sayi){
+        driver.switchTo().window(driver.getWindowHandles().toArray()[sayi].toString());
+
+    }
+
+    public static void tumSayfaResmi(){
+        String tarih = new SimpleDateFormat("_hh_mm_ss_ddMMyyyy").format(new Date());
+        String dosyaYolu = "TestOutPut/screenshot"+tarih+".png";
+        TakesScreenshot ts =(TakesScreenshot) driver;
+        try {
+            FileUtils.copyFile(ts.getScreenshotAs(OutputType.FILE), new File(dosyaYolu));
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+    //WebElemnet ScreenShot Alma
+    public static void webElementResmi(WebElement element){
+        String date = new SimpleDateFormat("_hh_mm_ss_ddMMyyyy").format(new Date());
+        String dosyaYolu = "TestOutput/webElementScreenShot"+date+".png";
+        try {
+            FileUtils.copyFile(element.getScreenshotAs(OutputType.FILE),new File(dosyaYolu));
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+
     }
 
 

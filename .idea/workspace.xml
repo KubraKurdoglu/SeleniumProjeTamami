@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day17_ScreenShot/C01_ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day18_ScreenShot/C01_ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day18_ScreenShot/C02_WebElementScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day18_ScreenShot/C03_ScreenShotClassWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day20_Excel/C01_ExcelRead.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day17_ScreenShot/C01_ScreenShot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day17_ScreenShot/C01_ScreenShot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/Capitals.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,80 +64,81 @@
       <recent name="$PROJECT_DIR$/src/test/java/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C01_ScreenShot">
-    <configuration name="C01_ScreenShot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C01_ExcelRead.readExcelTest4">
+    <configuration name="C01_ExcelRead" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17_ScreenShot.*" />
+          <option name="PATTERN" value="day20_Excel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day17_ScreenShot" />
-      <option name="MAIN_CLASS_NAME" value="day17_ScreenShot.C01_ScreenShot" />
+      <option name="PACKAGE_NAME" value="day20_Excel" />
+      <option name="MAIN_CLASS_NAME" value="day20_Excel.C01_ExcelRead" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_ScreenShot.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_ExcelRead.excelReadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17_ScreenShot.*" />
+          <option name="PATTERN" value="day20_Excel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day17_ScreenShot" />
-      <option name="MAIN_CLASS_NAME" value="day17_ScreenShot.C01_ScreenShot" />
+      <option name="PACKAGE_NAME" value="day20_Excel" />
+      <option name="MAIN_CLASS_NAME" value="day20_Excel.C01_ExcelRead" />
+      <option name="METHOD_NAME" value="excelReadTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_ExcelRead.readExcelTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day20_Excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day20_Excel" />
+      <option name="MAIN_CLASS_NAME" value="day20_Excel.C01_ExcelRead" />
+      <option name="METHOD_NAME" value="readExcelTest4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_ExcelRead.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day20_Excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day20_Excel" />
+      <option name="MAIN_CLASS_NAME" value="day20_Excel.C01_ExcelRead" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_ScreenShot.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C03_ScreenShotClassWork.classWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day17_ScreenShot.*" />
+          <option name="PATTERN" value="day18_ScreenShot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day17_ScreenShot" />
-      <option name="MAIN_CLASS_NAME" value="day17_ScreenShot.C01_ScreenShot" />
-      <option name="METHOD_NAME" value="test02" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_Files" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_05_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day_05_practice" />
-      <option name="MAIN_CLASS_NAME" value="day_05_practice.C02_Files" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_Files.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_05_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day_05_practice" />
-      <option name="MAIN_CLASS_NAME" value="day_05_practice.C02_Files" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="day18_ScreenShot" />
+      <option name="MAIN_CLASS_NAME" value="day18_ScreenShot.C03_ScreenShotClassWork" />
+      <option name="METHOD_NAME" value="classWork" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C01_ScreenShot" />
-        <item itemvalue="JUnit.C01_ScreenShot.test02" />
-        <item itemvalue="JUnit.C01_ScreenShot.test01" />
-        <item itemvalue="JUnit.C02_Files.test01" />
-        <item itemvalue="JUnit.C02_Files" />
+        <item itemvalue="JUnit.C01_ExcelRead.readExcelTest4" />
+        <item itemvalue="JUnit.C01_ExcelRead" />
+        <item itemvalue="JUnit.C01_ExcelRead.test01" />
+        <item itemvalue="JUnit.C01_ExcelRead.excelReadTest" />
+        <item itemvalue="JUnit.C03_ScreenShotClassWork.classWork" />
       </list>
     </recent_temporary>
   </component>

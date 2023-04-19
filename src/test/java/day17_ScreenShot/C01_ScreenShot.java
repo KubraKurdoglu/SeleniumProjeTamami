@@ -39,7 +39,7 @@ public class C01_ScreenShot extends TestBase {
         proje seviyesinde new directory deyip screenshot lari oaray kaydedebiliriz.
         ve dosyanin adini TestOutput yapariz. path'ini alip ekelriz.
         asagida path=target, ve dosya adi da screenShot
-        String dosyaYolu2 = "target/ScreenShotscreenShot.png";
+        String dosyaYolu2 = "TestOutPut/ScreenShotscreenShot.png";
          */
 
 
