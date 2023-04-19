@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_05_practice/C01_ActionMoveToElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_05_practice/C02_Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day17_ScreenShot/C01_ScreenShot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day19_WebTables_ReadExcel/C01_WebTables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day19_WebTables_ReadExcel/C01_WebTables.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,34 +57,50 @@
       <recent name="$PROJECT_DIR$/src/test/java/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C02_Files.test01">
-    <configuration name="C01_ActionMoveToElement.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C01_ScreenShot">
+    <configuration name="C01_ScreenShot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_05_practice.*" />
+          <option name="PATTERN" value="day17_ScreenShot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day_05_practice" />
-      <option name="MAIN_CLASS_NAME" value="day_05_practice.C01_ActionMoveToElement" />
+      <option name="PACKAGE_NAME" value="day17_ScreenShot" />
+      <option name="MAIN_CLASS_NAME" value="day17_ScreenShot.C01_ScreenShot" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_ScreenShot.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day17_ScreenShot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day17_ScreenShot" />
+      <option name="MAIN_CLASS_NAME" value="day17_ScreenShot.C01_ScreenShot" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_WebTables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_ScreenShot.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19_WebTables_ReadExcel.*" />
+          <option name="PATTERN" value="day17_ScreenShot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day19_WebTables_ReadExcel" />
-      <option name="MAIN_CLASS_NAME" value="day19_WebTables_ReadExcel.C01_WebTables" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="day17_ScreenShot" />
+      <option name="MAIN_CLASS_NAME" value="day17_ScreenShot.C01_ScreenShot" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,29 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_NullPointerException.nullPointerExceptionTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day16_Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="day16_Exceptions" />
-      <option name="MAIN_CLASS_NAME" value="day16_Exceptions.C03_NullPointerException" />
-      <option name="METHOD_NAME" value="nullPointerExceptionTest4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C01_ScreenShot" />
+        <item itemvalue="JUnit.C01_ScreenShot.test02" />
+        <item itemvalue="JUnit.C01_ScreenShot.test01" />
         <item itemvalue="JUnit.C02_Files.test01" />
         <item itemvalue="JUnit.C02_Files" />
-        <item itemvalue="JUnit.C01_ActionMoveToElement.test01" />
-        <item itemvalue="JUnit.C01_WebTables" />
-        <item itemvalue="JUnit.C03_NullPointerException.nullPointerExceptionTest4" />
       </list>
     </recent_temporary>
   </component>
