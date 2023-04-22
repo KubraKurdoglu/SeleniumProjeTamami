@@ -11,8 +11,10 @@ import java.util.List;
 public class C13_SearchTest extends TestBase {
 
     /*
-    1. https://www.amazon.com/ sayfasina gidelim 2. arama kutusunu locate edelim
-    3. “Samsung headphones” ile arama yapalim 4. Bulunan sonuc sayisini yazdiralim
+    1. https://www.amazon.com/ sayfasina gidelim
+    2. arama kutusunu locate edelim
+    3. “Samsung headphones” ile arama yapalim
+    4. Bulunan sonuc sayisini yazdiralim
     5. Ilk urunu tiklayalim
     6. Sayfadaki tum basliklari yazdiralim
      */
@@ -23,7 +25,7 @@ public class C13_SearchTest extends TestBase {
         driver.navigate().to("https://www.amazon.com/");
 
         // 2. arama kutusunu locate edelim
-        WebElement aramaKutusu = driver.findElement(By.xpath("//input[@id='twotabsearchtextbox']"));
+        WebElement aramaKutusu = driver.findElement(By.id("twotabsearchtextbox"));
 
         //3. “Samsung headphones” ile arama yapalim
         aramaKutusu.sendKeys("Samsung headphones"+ Keys.ENTER);
