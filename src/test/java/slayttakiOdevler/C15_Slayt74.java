@@ -62,6 +62,17 @@ public class C15_Slayt74 extends TestBase {
 
 
         //7. sonuc sayisinin 10 milyon’dan fazla oldugunu test edin
+
+        /*
+        Bu Java kodu, bir String değişkeni olan "sonuc" içindeki sayısal olmayan karakterleri kaldırmak için kullanılır.
+
+replaceAll() metodu, bir String içindeki belirtilen bir düzenli ifadeyi (regex) arar ve bu ifadeyi,
+belirtilen bir String ile değiştirir. Burada kullanılan "\D" ifadesi,
+ sayısal olmayan tüm karakterleri ifade eder. Yani, bu kodda, String değişkeni olan "sonuc" içindeki
+ tüm sayısal olmayan karakterler "\D" ifadesiyle eşleştirilir ve bunlar boş bir String ile değiştirilir.
+ Böylece, "sonucc" değişkeni, "sonuc" değişkeninin sadece rakamlar içeren bir kopyasını içerir.
+         */
+
         String sonucc = sonuc.replaceAll("\\D","");
 
         if(Integer.parseInt(sonucc)>100000000){
