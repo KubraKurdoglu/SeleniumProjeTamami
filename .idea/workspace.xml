@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C16_Slayt75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C17_Slayt83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C18_Slayt87.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C15_Slayt74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C15_Slayt74.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C15_Slayt74.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C15_Slayt74.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C16_Slayt75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C16_Slayt82.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C16_Slayt75.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src/test/java/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C16_Slayt75.test01">
+  <component name="RunManager" selected="JUnit.C17_Slayt83">
     <configuration name="C02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_02_practice.C02" />
       <module name="B129SeleniumMavenJunit" />
@@ -69,22 +70,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C14_Slayt74.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C14_Slayt74" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C16_Slayt75.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C16_Slayt82.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
@@ -129,20 +114,35 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C16_Slayt75" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C16_Slayt82" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C17_Slayt83" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C17_Slayt83" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C16_Slayt75.test01" />
+        <item itemvalue="JUnit.C17_Slayt83" />
+        <item itemvalue="JUnit.C16_Slayt82.test01" />
         <item itemvalue="JUnit.C15_Slayt74.test01" />
         <item itemvalue="JUnit.C15_Slayt74" />
         <item itemvalue="Application.C02" />
-        <item itemvalue="JUnit.C14_Slayt74.test01" />
       </list>
     </recent_temporary>
   </component>

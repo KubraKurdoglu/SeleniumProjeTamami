@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import utilities.TestBase;
 
-public class C16_Slayt75 extends TestBase {
+public class C16_Slayt82 extends TestBase {
 
     /*
 1.Bir class oluşturun : CheckBoxTest
