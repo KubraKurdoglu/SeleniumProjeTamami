@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Taskk10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C18_Slayt87.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C18_Slayt87.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/erolHoca_odevler/Task07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/erolHoca_odevler/Task07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
-    </list>
+    <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
