@@ -4,10 +4,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.apache.commons.io.FileUtils;
 import org.junit.After;
 import org.junit.Before;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.Select;
@@ -102,11 +99,19 @@ public abstract class TestBase {//abstract yapmasakta olurmus, obje olusturulmas
     //bu sayede istedigimiz yerden aliyoruz
     //Index sifirdan baslar, girilen index'teki windowhandle degerini alarak o sayfaya gecis yapar
 
+    /*
     public static void switchToWindow(int sayfaIndeksi){
         List<String> windowHandleList = new ArrayList<>(driver.getWindowHandles());
 
     }
 
+     */
+
+    //SwitchToWindow1
+    public static void switchToWindow(int sayi) {
+        List<String> tumWindowHandles = new ArrayList<String>(driver.getWindowHandles());
+        driver.switchTo().window(tumWindowHandles.get(sayi));
+    }
 
     //bir pencereden digerine gecmek icin kullaniyoruz bu methodu
     public static void window(int sayi){
@@ -134,6 +139,13 @@ public abstract class TestBase {//abstract yapmasakta olurmus, obje olusturulmas
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+
+    }
+    //Bu method ile herhangi bir elemente JS Executer kullanarak ekranı kaydırma yapabilirim:
+    public void scrollIntoView(WebElement element){
+
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].scrollIntoView(true);",element);
 
     }
 

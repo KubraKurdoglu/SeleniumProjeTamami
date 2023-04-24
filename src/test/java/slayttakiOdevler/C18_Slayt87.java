@@ -4,6 +4,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -48,10 +49,15 @@ public class C18_Slayt87 {
         assertEquals("YouTube" , sayfaBasligi);
 
         //=> YouTube resminin görüntülendiğini (isDisplayed()) test edin
-
+        WebElement logo = driver.findElement(By.id("logo-icon"));
+        assertTrue(logo.isDisplayed());
 
 
         //○ Search Box 'in erisilebilir oldugunu test edin (isEnabled())
+        WebElement searchBox = driver.findElement(By.id("search"));
+        assertTrue(searchBox.isEnabled());
+
+
         //○ wrongTitleTest => Sayfa basliginin “youtube” olmadigini dogrulayin
 
     }
