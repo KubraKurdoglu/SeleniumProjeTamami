@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="" />
+    <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/day21_JSExecutor/C01_JSExecutor_Click.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day21_JSExecutor/C02_JSExecutor_Scroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day21_JSExecutor/C03_JSExecutor_Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day21_JSExecutor/C04_JSExecutor_GetValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/TestBase.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,33 +62,32 @@
       <recent name="$PROJECT_DIR$/src/test/java/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Task09">
-    <configuration name="C16_Slayt82.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C04_JSExecutor_GetValue">
+    <configuration name="C01_JSExecutor_Click" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="PATTERN" value="day21_JSExecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C16_Slayt82" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="day21_JSExecutor" />
+      <option name="MAIN_CLASS_NAME" value="day21_JSExecutor.C01_JSExecutor_Click" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C17_Slayt83" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_JSExecutor_GetValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.*" />
+          <option name="PATTERN" value="day21_JSExecutor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.C17_Slayt83" />
+      <option name="PACKAGE_NAME" value="day21_JSExecutor" />
+      <option name="MAIN_CLASS_NAME" value="day21_JSExecutor.C04_JSExecutor_GetValue" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.C04_JSExecutor_GetValue" />
+        <item itemvalue="JUnit.C01_JSExecutor_Click" />
         <item itemvalue="JUnit.Task09" />
         <item itemvalue="JUnit.Task07" />
         <item itemvalue="JUnit.Task10.test01" />
-        <item itemvalue="JUnit.C17_Slayt83" />
-        <item itemvalue="JUnit.C16_Slayt82.test01" />
       </list>
     </recent_temporary>
   </component>

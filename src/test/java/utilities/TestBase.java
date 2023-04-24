@@ -142,12 +142,64 @@ public abstract class TestBase {//abstract yapmasakta olurmus, obje olusturulmas
 
     }
     //Bu method ile herhangi bir elemente JS Executer kullanarak ekranı kaydırma yapabilirim:
+    //Yani soyle, bir sayfada herhangi bir elemente sayfayi kaydirarak ulasmak istiyorsak bu
+    //methodu kullanmaliyiz, "scrollIntoView==> goruntulenene kadar kaydir demek
     public void scrollIntoView(WebElement element){
 
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("arguments[0].scrollIntoView(true);",element);
 
     }
+
+    //Click Method
+    //Eger dogru locate ettiigin hamde "click" calismiyorsa, kodlar JavaScript ile yazilmis olabilir
+    //veya  "ElementClickInterceptedException" hatasi aliyorsan ve yeniden locate ettigin halde duzelmiyorsa
+    //Bu durumda asagidaki kodu kullanbilirsin
+
+    public void click(WebElement element){
+        try {
+            element.click();
+        } catch (Exception e) {
+            JavascriptExecutor js = (JavascriptExecutor) driver;
+            js.executeScript("arguments[0].click();",element);
+        }
+    }
+
+
+
+    //JS Sayfa Sonu SCROLL
+    //Sayfanin en sonuna gitmak icin bu methodu kullanbiliriz
+    public void scrollEnd() {
+
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("window.scrollTo(0, document.body.scrollHeight");
+
+    }
+
+    //JS Sayfa Başı Scroll
+    //Sayfayi en uste Scroll yapmak icin bu methodu kullaniriz
+    public void scrollHome(){
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("window.scrollTo(0,-document.body.scrollHeight)");
+    }
+
+
+    //Bazi giriş kutuları normal sendKeys() methodu ile metin gönderilmesine izin vermez.
+    //Bu gibi durumlarda aşağıdaki örnekteki gibi JSExecutor kullanılır.
+    public void sendKeysJS(WebElement element, String text){
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].value='"+text+"'",element);
+    }
+
+
+
+        //Eğer js.executeScript("arguments[0].value='QA'",aramaKutusu); bu kullanımdaki gibi metin gönderemezsek
+        //aşağıdaki örnekteki gibi value attribute'ne değer atayabiliriz
+    public void sendAttributeJS(WebElement element,String text){
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript("arguments[0].setAttribute('value','"+text+"')",element);
+    }
+
 
 
 }
