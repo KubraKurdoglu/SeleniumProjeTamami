@@ -1,4 +1,4 @@
-package day18_ScreenShot;
+package day18_ScreenShot_ExtendReport;
 
 import org.apache.commons.io.FileUtils;
 import org.junit.Test;

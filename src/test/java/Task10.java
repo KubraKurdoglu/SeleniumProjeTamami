@@ -1,3 +1,6 @@
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -7,10 +10,15 @@ import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 import static org.junit.Assert.*;
 
 public class Task10 extends TestBase {
+    ExtentTest extentTest;
+    ExtentReports extentReports;
+    ExtentHtmlReporter extentHtmlReporter;
 
     //https://www.selenium.dev/downloads/ adresine gidelim
     //Sayfanın resmini alalım
@@ -67,7 +75,7 @@ public class Task10 extends TestBase {
 
         String userHOME = System.getProperty("user.home");
         boolean isExist = Files.exists(Paths.get(userHOME +"/Downloads/chromedriver_mac64.zip"));
-        assertTrue(isExist);
+        assertEquals(isExist, Files.exists(Paths.get(userHOME +"/Downloads/chromedriver_mac64.zip")));
 
 
 
@@ -82,16 +90,30 @@ public class Task10 extends TestBase {
         //Not: Bu task'in her adımı için Html rapor oluşturalım(Extent Report)
 
 
-
-
-
-
-
-
-
-
-
-
+        extentTest.info("Selenium downloads sayfasına gidildi");
+        extentTest.info("Sayfa resmi alındı");
+        extentTest.info("Browsers bölümü görünene kadar sayfayı indirdik");
+        extentTest.info("Documentation linkine tıkladık");
+        extentTest.info("Documentation webelementinin resmini aldık");
+        extentTest.info("Latest stable release olan linki tıkladık");
+        extentTest.info("Açılan pencerede chromedriver'i indirdik");
+        extentTest.info("Driver'in indiğini doğruladık");
+        extentTest.info("İndirmiş olduğumuz dosyayı sildik");
+        extentTest.info("Silindiğini doğruladık");
+        extentReports = new ExtentReports();
+        String tarih = new SimpleDateFormat("_hh_mm_ss_ddMMyyyy").format(new Date());
+        String dosyaYolu = "TestOutput/reports/extentReport_"+tarih+".html";
+        extentHtmlReporter = new ExtentHtmlReporter(dosyaYolu);
+        extentReports.attachReporter(extentHtmlReporter);
+        extentReports.setSystemInfo("Browser","Chrome");
+        extentReports.setSystemInfo("SDET","Ceren");
+        extentHtmlReporter.config().setDocumentTitle("Extent Report");
+        extentHtmlReporter.config().setReportName("HTML Raporu");
+        extentTest=extentReports.createTest("ExtentTest","Test Raporu");
+        //Her adımın altına ne yaptığımızı belirten bilgileri yazdık.
+        extentTest.pass("Test sonlandırıldı");
+        extentReports.flush(); //raporu kapatip sonlandiriyor
+    }
     }
 
-}
+

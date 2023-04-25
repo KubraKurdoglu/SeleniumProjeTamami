@@ -1,4 +1,4 @@
-package day18_ScreenShot;
+package day18_ScreenShot_ExtendReport;
 
 import org.junit.Test;
 import org.openqa.selenium.By;
