@@ -1,4 +1,4 @@
-package slayttakiOdevler.Class1_18Arasi;
+package slayttakiOdevler.Class01_18Arasi;
 
 import org.junit.Test;
 import org.openqa.selenium.By;

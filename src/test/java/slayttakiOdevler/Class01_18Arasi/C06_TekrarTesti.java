@@ -1,4 +1,4 @@
-package slayttakiOdevler.Class1_18Arasi;
+package slayttakiOdevler.Class01_18Arasi;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;

@@ -1,0 +1,4 @@
+//Web Elementin içerdiği yazıyı alabilmek için kullanılan 3 yöntem
+//*[.='text']
+//input[.='signup']
+//*[text()='text']
