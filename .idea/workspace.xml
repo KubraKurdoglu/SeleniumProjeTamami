@@ -5,127 +5,157 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/java ile data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day22_Log4j/C01_Log4j.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day22_Log4j/C02_Log4jTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ulkeler.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_06_practice/C01_Waits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_06_practice/C02_ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_06_practice/C03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day_06_practice/C03_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class19_30Arasi/C20_95_HandleDropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class19_30Arasi/C21_100Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class19_30Arasi/C22_93HandleDropdown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_14_54_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_14_54_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_17_57_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_17_57_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_18_06_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_18_06_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_18_25_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_18_25_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_19_54_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_19_54_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_45_17_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_45_17_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_50_41_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_50_41_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_51_14_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_51_14_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_51_17_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_51_17_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_51_41_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_51_41_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_51_49_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_51_49_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_02_57_13_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_57_13_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_01_01_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_01_01_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_02_47_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_02_47_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_05_48_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_05_48_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_06_20_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_06_20_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_11_31_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_11_31_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_14_03_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_14_03_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_14_52_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_14_52_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_15_52_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_15_52_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_18_46_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_18_46_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_20_15_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_20_15_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_23_35_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_23_35_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_24_29_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_24_29_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_28_37_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_28_37_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_30_29_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_30_29_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_31_21_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_31_21_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_35_33_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_35_33_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_39_38_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_39_38_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_44_32_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_44_32_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_44_38_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_44_38_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_46_12_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_46_12_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_46_20_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_46_20_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_46_24_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_46_24_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_48_26_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_48_26_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_51_21_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_51_21_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_52_03_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_52_03_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_54_08_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_54_08_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_55_09_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_55_09_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_58_18_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_58_18_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_03_59_47_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_59_47_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_00_33_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_00_33_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_01_12_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_01_12_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_04_39_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_04_39_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_05_31_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_05_31_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_05_32_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_05_32_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_06_18_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_06_18_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_06_53_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_06_53_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_07_42_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_07_42_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_09_18_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_09_18_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_10_05_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_10_05_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_11_49_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_11_49_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_13_56_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_13_56_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_14_35_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_14_35_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_16_56_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_16_56_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_18_03_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_18_03_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_20_45_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_20_45_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_22_00_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_22_00_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_04_58_45_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_58_45_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_05_05_02_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_05_05_02_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_05_06_43_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_05_06_43_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_05_12_12_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_05_12_12_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/screenshot_06_01_54_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_06_01_54_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_02_15_02_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_02_15_02_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_02_18_21_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_02_18_21_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_02_20_39_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_02_20_39_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_02_45_22_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_02_45_22_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_02_50_48_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_02_50_48_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_01_14_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_01_14_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_03_00_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_03_00_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_06_35_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_06_35_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_12_05_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_12_05_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_14_32_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_14_32_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_14_45_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_14_45_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_16_03_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_16_03_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_18_54_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_18_54_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_20_28_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_20_28_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_24_45_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_24_45_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_35_54_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_35_54_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_40_47_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_40_47_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_44_37_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_44_37_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_46_15_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_46_15_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_46_24_19042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_46_24_19042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_48_34_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_48_34_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_51_30_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_51_30_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_52_11_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_52_11_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_54_14_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_54_14_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_55_15_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_55_15_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_58_24_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_58_24_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_03_59_52_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_59_52_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_00_39_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_00_39_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_01_21_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_01_21_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_04_47_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_04_47_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_05_38_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_05_38_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_05_41_25042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_05_41_25042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_06_25_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_06_25_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_06_59_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_06_59_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_07_48_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_07_48_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_09_23_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_09_23_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_10_11_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_10_11_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_11_57_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_11_57_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_14_03_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_14_03_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_14_41_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_14_41_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_17_04_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_17_04_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_18_09_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_18_09_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_20_51_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_20_51_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_22_06_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_22_06_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_04_58_52_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_58_52_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_05_05_10_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_05_05_10_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_05_06_50_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_05_06_50_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_05_12_20_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_05_12_20_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestOutput/webElementScreenShot_06_01_59_24042023.png" beforeDir="false" afterPath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_06_01_59_24042023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenShot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_14_54_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_17_57_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_18_06_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_18_25_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_19_54_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_45_17_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_50_41_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_51_14_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_51_17_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_51_41_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_51_49_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_02_57_13_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_01_01_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_02_47_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_05_48_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_06_20_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_11_31_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_14_03_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_14_52_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_15_52_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_18_46_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_20_15_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_23_35_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_24_29_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_28_37_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_30_29_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_31_21_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_35_33_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_39_38_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_44_32_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_44_38_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_46_12_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_46_20_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_46_24_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_48_26_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_51_21_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_52_03_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_54_08_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_55_09_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_58_18_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_03_59_47_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_00_33_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_01_12_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_04_39_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_05_31_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_05_32_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_06_18_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_06_53_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_07_42_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_10_05_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_11_49_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_13_56_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_14_35_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_16_56_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_18_03_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_20_45_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_22_00_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_04_58_45_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_05_05_02_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_05_06_43_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_05_12_12_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/screenshot_06_01_54_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_02_15_02_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_02_18_21_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_02_20_39_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_02_45_22_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_02_50_48_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_01_14_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_03_00_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_06_35_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_12_05_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_14_32_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_14_45_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_16_03_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_18_54_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_20_28_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_24_45_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_35_54_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_40_47_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_44_37_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_46_15_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_46_24_19042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_48_34_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_51_30_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_52_11_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_54_14_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_55_15_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_58_24_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_03_59_52_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_00_39_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_01_21_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_04_47_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_05_38_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_05_41_25042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_06_25_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_06_59_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_14_41_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_17_04_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_18_09_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/ScreenShot/webElementScreenShot_04_20_51_24042023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day20_Excel/C01_ExcelRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day20_Excel/C01_ExcelRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C01_DriverGetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C01_DriverGetMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C02_NavigationMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C02_NavigationMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C03_NavigationsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C03_NavigationsMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C04_NavigationsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C04_NavigationsMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C05_NavigationsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C05_NavigationsMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C06_TekrarTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C06_TekrarTesti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C07_LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C07_LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C08_TekrarTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C08_TekrarTesti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C09_LocatorsXPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C09_LocatorsXPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C10_AddRemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C10_AddRemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C11_LocatorsXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C11_LocatorsXpath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C12_RelativeLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C12_RelativeLocator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C13_SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C13_SearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C14_Slayt74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C14_Slayt74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C15_Slayt74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C15_Slayt74.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C16_Slayt82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C16_Slayt82.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C17_Slayt83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C17_Slayt83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/C18_Slayt87.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C18_Slayt87.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class19_30Arasi/C019_88_YanlisEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class19_30Arasi/C019_88_YanlisEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/java ile data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/java ile data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/erolHoca_odevler/Task11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/erolHoca_odevler/Task11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C01_DriverGetMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C02_NavigationMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C03_NavigationsMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C04_NavigationsMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C05_NavigationsMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C06_TekrarTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C07_LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C08_TekrarTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C09_LocatorsXPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C10_AddRemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C11_LocatorsXpath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C12_RelativeLocator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C13_SearchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C14_Slayt74.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C15_Slayt74.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C16_Slayt82.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C17_Slayt83.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/C18_Slayt87.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class19_30Arasi/C019_88_YanlisEmail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class19_30Arasi/C019_88_YanlisEmail.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,78 +208,79 @@
       <recent name="$PROJECT_DIR$/src/test/java/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Task11.test01">
-    <configuration name="C01_Log4j" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C22_93HandleDropdown.test01">
+    <configuration name="C18_Slayt87" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day22_Log4j.*" />
+          <option name="PATTERN" value="slayttakiOdevler.Class1_18Arasi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day22_Log4j" />
-      <option name="MAIN_CLASS_NAME" value="day22_Log4j.C01_Log4j" />
+      <option name="PACKAGE_NAME" value="slayttakiOdevler.Class1_18Arasi" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.Class1_18Arasi.C18_Slayt87" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_Log4jTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C21_100Alerts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day22_Log4j.*" />
+          <option name="PATTERN" value="slayttakiOdevler.Class19_30Arasi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="day22_Log4j" />
-      <option name="MAIN_CLASS_NAME" value="day22_Log4j.C02_Log4jTest" />
+      <option name="PACKAGE_NAME" value="slayttakiOdevler.Class19_30Arasi" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.Class19_30Arasi.C21_100Alerts" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C21_100Alerts.dismiss" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="erolHoca_odevler.*" />
+          <option name="PATTERN" value="slayttakiOdevler.Class19_30Arasi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="erolHoca_odevler" />
-      <option name="MAIN_CLASS_NAME" value="erolHoca_odevler.Task11" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task11.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="B129SeleniumMavenJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="erolHoca_odevler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="erolHoca_odevler" />
-      <option name="MAIN_CLASS_NAME" value="erolHoca_odevler.Task11" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="PACKAGE_NAME" value="slayttakiOdevler.Class19_30Arasi" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.Class19_30Arasi.C21_100Alerts" />
+      <option name="METHOD_NAME" value="dismiss" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taskk10.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C21_100Alerts.sendKeys" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="erolHoca_odevler.*" />
+          <option name="PATTERN" value="slayttakiOdevler.Class19_30Arasi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="erolHoca_odevler" />
-      <option name="MAIN_CLASS_NAME" value="erolHoca_odevler.Taskk10" />
+      <option name="PACKAGE_NAME" value="slayttakiOdevler.Class19_30Arasi" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.Class19_30Arasi.C21_100Alerts" />
+      <option name="METHOD_NAME" value="sendKeys" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C22_93HandleDropdown.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="B129SeleniumMavenJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slayttakiOdevler.Class19_30Arasi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slayttakiOdevler.Class19_30Arasi" />
+      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.Class19_30Arasi.C22_93HandleDropdown" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -258,11 +289,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Task11.test01" />
-        <item itemvalue="JUnit.Task11" />
-        <item itemvalue="JUnit.C02_Log4jTest" />
-        <item itemvalue="JUnit.C01_Log4j" />
-        <item itemvalue="JUnit.Taskk10.test01" />
+        <item itemvalue="JUnit.C22_93HandleDropdown.test01" />
+        <item itemvalue="JUnit.C21_100Alerts.sendKeys" />
+        <item itemvalue="JUnit.C21_100Alerts.dismiss" />
+        <item itemvalue="JUnit.C21_100Alerts" />
+        <item itemvalue="JUnit.C18_Slayt87" />
       </list>
     </recent_temporary>
   </component>

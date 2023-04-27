@@ -5,13 +5,15 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import utilities.TestBase;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class Task11  {
+public class Task11  extends TestBase{
 
 
  /*
@@ -44,6 +46,36 @@ public class Task11  {
         FileOutputStream fileOutputStream = new FileOutputStream("/Users/kubra/IdeaProjects/B129SeleniumMavenJunit" +
                 "/src/main/resources/java ile data.xlsx");
         workbook.write(fileOutputStream);
+
+    }
+    @Test
+    public void test02(){
+
+//        -İkinci methodda https://www.bluerentalcars.com/ adresine gidip
+        driver.get("https://www.bluerentalcars.com/");
+
+
+//        -Excel dosyasından aldığımız kullanıcı bilgileri ile login olalım
+        WebElement login = driver.findElement(By.xpath("//a[@href='/login']"));
+        login.click();
+
+
+
+        WebElement eMail = driver.findElement(By.id("formBasicEmail"));
+
+       // eMail.sheet1.getRow(1).createCell(0);
+
+
+       /* Map<String, String> bilgi =new HashMap<String, String>();
+
+        for (int satirIndex = 1;satirIndex<)*/
+
+
+
+
+//        -Login olduğumuzu doğrulayalım
+
+
 
     }
 }

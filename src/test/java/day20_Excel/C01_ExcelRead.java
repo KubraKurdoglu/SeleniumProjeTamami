@@ -46,7 +46,7 @@ public class C01_ExcelRead {
         System.out.println(cell);
 
         //NOTE:==> veri yazarken ve okurken Excel dosyasinin kapali olmasi lazim
-        //yoksa hata alirsin. kapali oldugunu reninin kirmizi olmadigidan anlarsin
+        //yoksa hata alirsin. kapali oldugunu renginin kirmizi olmadigidan anlarsin
 
     }
 
