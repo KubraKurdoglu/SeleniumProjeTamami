@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/AAA00/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/erolHoca_odevler/Task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class19_30Arasi/C23_94HandleDropDown.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C01_DriverGetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C01_DriverGetMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C02_NavigationMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C02_NavigationMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C03_NavigationsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C03_NavigationsMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C04_NavigationsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C04_NavigationsMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C05_NavigationsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C05_NavigationsMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C06_TekrarTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C06_TekrarTesti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C07_LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C07_LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C08_TekrarTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C08_TekrarTesti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C09_LocatorsXPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C09_LocatorsXPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C10_AddRemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C10_AddRemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C11_LocatorsXpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C11_LocatorsXpath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C12_RelativeLocator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C12_RelativeLocator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C13_SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C13_SearchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C14_Slayt74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C14_Slayt74.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C15_Slayt74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C15_Slayt74.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C16_Slayt82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C16_Slayt82.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C17_Slayt83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C17_Slayt83.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class1_18Arasi/C18_Slayt87.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/Class01_18Arasi/C18_Slayt87.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
