@@ -1,4 +1,4 @@
-package slayttakiOdevler;
+package forGitHup;
 
 import org.junit.Test;
 import org.openqa.selenium.By;

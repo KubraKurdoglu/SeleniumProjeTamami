@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="" />
+    <list default="true" id="ae819b98-011c-443d-b270-fac21be6d64f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/forGitHup/TersUcgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/forGitHup/Ucgen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/ForGitHup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/forGitHup/ForGitHup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/slayttakiOdevler/GithupDolsun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/forGitHup/GithupDolsun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C01_DriverGetMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C02_NavigationMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C03_NavigationsMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C04_NavigationsMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C05_NavigationsMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C06_TekrarTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C07_LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C08_TekrarTesti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C09_LocatorsXPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C10_AddRemoveElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C11_LocatorsXpath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C12_RelativeLocator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C13_SearchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C14_Slayt74.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C15_Slayt74.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C16_Slayt82.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C17_Slayt83.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/Class1_18Arasi/C18_Slayt87.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/slayttakiOdevler/GithupDolsun.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,33 +81,29 @@
       <recent name="$PROJECT_DIR$/src/test/java/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.C22_93HandleDropdown.test01">
-    <configuration name="C18_Slayt87" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Ucgen">
+    <configuration name="TersUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forGitHup.TersUcgen" />
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.Class01_18Arasi.*" />
+          <option name="PATTERN" value="forGitHup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler.Class1_18Arasi" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.Class01_18Arasi.C18_Slayt87" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C21_100Alerts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Ucgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forGitHup.Ucgen" />
       <module name="B129SeleniumMavenJunit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="slayttakiOdevler.Class19_30Arasi.*" />
+          <option name="PATTERN" value="forGitHup.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="slayttakiOdevler.Class19_30Arasi" />
-      <option name="MAIN_CLASS_NAME" value="slayttakiOdevler.Class19_30Arasi.C21_100Alerts" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -137,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ucgen" />
+        <item itemvalue="Application.TersUcgen" />
         <item itemvalue="JUnit.C22_93HandleDropdown.test01" />
         <item itemvalue="JUnit.C21_100Alerts.sendKeys" />
         <item itemvalue="JUnit.C21_100Alerts.dismiss" />
-        <item itemvalue="JUnit.C21_100Alerts" />
-        <item itemvalue="JUnit.C18_Slayt87" />
       </list>
     </recent_temporary>
   </component>
